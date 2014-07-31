@@ -11,10 +11,9 @@ A curated list of awesome datasets for papers/experiments/validation.
 	- [Unsupervised (clustering)](#unsupervised)
 	- [Face Recognition](#face-recognition)
 
-
 ## Classification
 
-* Datasets for classification. *
+*Datasets for classification.*
 
 * [KEEL - General](http://sci2s.ugr.es/keel/category.php?cat=clas) - General classification datasets.
 * [KEEL - Missing-values](http://sci2s.ugr.es/keel/missing.php) - Missing values datasets.
@@ -25,41 +24,30 @@ A curated list of awesome datasets for papers/experiments/validation.
 
 ## Semi-Supervised
 
-* Datasets for semi-supervised problems. *
+*Datasets for semi-supervised applications.*
 
 * [KEEL - semi-supervised](http://sci2s.ugr.es/keel/semisupervised.php) - Datasets for semi-supervised experiments.
 * [KEEL - semi-supervised](http://sci2s.ugr.es/keel/semisupervised.php) - Datasets for semi-supervised experiments.
 
 ## Regression
 
-* Datasets for regression problems. *
+*Datasets for regression applications.*
 
 * [KEEL - regression](http://sci2s.ugr.es/keel/category.php?cat=reg) - Datasets for regression experiments.
 
 
 ## Time series
 
-* Datasets for time-series problems. *
+*Datasets for time-series problems.*
 
 * [KEEL - time-series](http://sci2s.ugr.es/keel/category.php?cat=reg) - Datasets for time-series experiments.
 
 ## Face Recognition
 
-* Face Recognition datasets. *
+*Face Recognition datasets.*
 
 * [JAFFE](http://kasrl.org/jaffe.html) - The Japanese Female Facial Expression (JAFFE) Database.
 * [Carnegie Mellon](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-8/faceimages/) - Datasets from theo-8 projects at Carnegie Mellon University.
 * [Yale Face Database](http://vision.ucsd.edu/content/yale-face-database) - Datasets for facial expression (happy, sad, angry...) recognition.
-
-
-
-
-
-**
-
-
-
-
-
 
 

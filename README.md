@@ -10,6 +10,7 @@ A curated list of awesome datasets for papers/experiments/validation.
 	- [Time-Series](#time-series)
 	- [Unsupervised (clustering)](#unsupervised)
 	- [Face Recognition](#face-recognition)
+	- [Image Processing](#image-processing)
 
 ## Classification
 
@@ -50,5 +51,18 @@ A curated list of awesome datasets for papers/experiments/validation.
 * [Carnegie Mellon](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-8/faceimages/) - Datasets from theo-8 projects at Carnegie Mellon University.
 * [Yale Face Database](http://vision.ucsd.edu/content/yale-face-database) - Datasets for facial expression (happy, sad, angry...) recognition.
 * [Cohn-Kanade](http://www.pitt.edu/~emotion/ck-spread.htm) - The Cohn-Kanade AU-Coded Facial Expression Database is for research in automatic facial image analysis and synthesis and for perceptual studies.
+
+
+## Image Processing
+
+*Image Processing.*
+
+* [Microsoft - Salient Object Database](http://research.microsoft.com/en-us/um/people/jiansun/SalientObject/salient_object.htm) - MSRA Salient Object Database.
+* [IVRG - Salient Object Database](http://ivrgwww.epfl.ch/supplementary_material/RK_CVPR09/) - Frequency-tuned Salient Region Detection.
+* [ICDAR - Robust Reading](http://dag.cvc.uab.es/icdar2013competition/?com=introduction) - Robust Reading Competition.
+
+
+
+
 
 

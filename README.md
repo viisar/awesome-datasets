@@ -49,5 +49,6 @@ A curated list of awesome datasets for papers/experiments/validation.
 * [JAFFE](http://kasrl.org/jaffe.html) - The Japanese Female Facial Expression (JAFFE) Database.
 * [Carnegie Mellon](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-8/faceimages/) - Datasets from theo-8 projects at Carnegie Mellon University.
 * [Yale Face Database](http://vision.ucsd.edu/content/yale-face-database) - Datasets for facial expression (happy, sad, angry...) recognition.
+* [Cohn-Kanade](http://www.pitt.edu/~emotion/ck-spread.htm) - The Cohn-Kanade AU-Coded Facial Expression Database is for research in automatic facial image analysis and synthesis and for perceptual studies.
 
 

@@ -51,6 +51,10 @@ A curated list of awesome datasets for papers/experiments/validation.
 * [Carnegie Mellon](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-8/faceimages/) - Datasets from theo-8 projects at Carnegie Mellon University.
 * [Yale Face Database](http://vision.ucsd.edu/content/yale-face-database) - Datasets for facial expression (happy, sad, angry...) recognition.
 * [Cohn-Kanade](http://www.pitt.edu/~emotion/ck-spread.htm) - The Cohn-Kanade AU-Coded Facial Expression Database is for research in automatic facial image analysis and synthesis and for perceptual studies.
+* [AR face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html) - Different facial expressions, illumination conditions and occlusions.
+* [Face Detection CBCL](http://cbcl.mit.edu/software-datasets/FaceData2.html) - Face Detection Data from MIT.
+* [Face Recognition LFW](http://vis-www.cs.umass.edu/lfw/) - Face Recognition from UMASS.
+* [Face Recognition ORL](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) - Face Recognition from AT&T.
 
 
 ## Image Processing
@@ -60,9 +64,9 @@ A curated list of awesome datasets for papers/experiments/validation.
 * [Microsoft - Salient Object Database](http://research.microsoft.com/en-us/um/people/jiansun/SalientObject/salient_object.htm) - MSRA Salient Object Database.
 * [IVRG - Salient Object Database](http://ivrgwww.epfl.ch/supplementary_material/RK_CVPR09/) - Frequency-tuned Salient Region Detection.
 * [ICDAR - Robust Reading](http://dag.cvc.uab.es/icdar2013competition/?com=introduction) - Robust Reading Competition.
-
-
-
-
-
+* [Brodatz - Texture Recognition](http://www.ux.uis.no/~tranden/brodatz.html) - Texture Recognition.
+* [Vistex - Texture Recognition](http://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - Texture Recognition.
+* [Caltech - Object Categorization](http://www.vision.caltech.edu/Image_Datasets/Caltech101/) - Object Categorization from Caltech101.
+* [Marcel - Gesture Recognition](http://www.idiap.ch/resource/gestures/) - Gesture Recognition from Marcel.
+* [RPPDI - Gesture Recognition](http://rppdi.ecomp.poli.br/gesture/database/) - Gesture Recognition from RPPDI.
 

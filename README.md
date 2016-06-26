@@ -11,6 +11,7 @@ A curated list of awesome datasets for papers/experiments/validation.
 	- [Unsupervised (clustering)](#unsupervised)
 	- [Face Recognition](#face-recognition)
 	- [Image Processing](#image-processing)
+	- [Handwriting Recognition](#handwriting-recognition)
 
 ## Classification
 
@@ -70,3 +71,9 @@ A curated list of awesome datasets for papers/experiments/validation.
 * [Marcel - Gesture Recognition](http://www.idiap.ch/resource/gestures/) - Gesture Recognition from Marcel.
 * [RPPDI - Gesture Recognition](http://rppdi.ecomp.poli.br/gesture/database/) - Gesture Recognition from RPPDI.
 
+
+## Handwriting Recognition
+
+*Handwriting Recognition*
+
+* [MNIST - Database of Handwritten Digits](http://yann.lecun.com/exdb/mnist/) - THE MNIST DATABASE of handwritten digits.

@@ -12,6 +12,7 @@ A curated list of awesome datasets for papers/experiments/validation.
 	- [Face Recognition](#face-recognition)
 	- [Image Processing](#image-processing)
 	- [Handwriting Recognition](#handwriting-recognition)
+	- [Text Classification](#text-classification)
 
 ## Classification
 
@@ -77,3 +78,10 @@ A curated list of awesome datasets for papers/experiments/validation.
 *Handwriting Recognition*
 
 * [MNIST - Database of Handwritten Digits](http://yann.lecun.com/exdb/mnist/) - THE MNIST DATABASE of handwritten digits.
+
+## Text Classification
+
+*Text Classification*
+
+* [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/) - The 20 newsgroups text dataset.
+* [Reuters-21578](https://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection) - Reuters-21578 Text Categorization Collection Data Set
